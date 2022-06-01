@@ -10,8 +10,6 @@ int main()
     cin >> x;
     cout << "введите y: ";
     cin >> y;
-    cout << " x " << x << endl;
-    cout << " y " << y << endl;
-    return 0;
+    cout << " x - y = " << x - y << endl
 }
 
