@@ -7,5 +7,6 @@ int main()//Программа явл. учебной
     cout << "введите y: ";
     cin >> y;
     cout << " x - y = " << x - y << endl
+    cout << " x - y = " << x - y << endl
+    cout << " x - y = " << x - y << endl
 }
-
