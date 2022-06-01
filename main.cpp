@@ -1,12 +1,8 @@
 #include <sdt.h>
-#include <iostream>
-using namespace std;
-
-int main()
+int main()//Программа явл. учебной
 {
-    setlocale(LC_ALL, "Russia");
-    cout << "введите x: ";
     int x, y;
+    cout << "введите x: ";
     cin >> x;
     cout << "введите y: ";
     cin >> y;
